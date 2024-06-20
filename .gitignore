@@ -1,0 +1,5 @@
+# Ignore all .o .x .a .d
+*.a 
+*.o 
+*.d
+*.x
